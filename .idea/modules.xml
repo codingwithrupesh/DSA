@@ -14,7 +14,9 @@
       <module fileurl="file://$PROJECT_DIR$/10.Recursion/10.Recursion.iml" filepath="$PROJECT_DIR$/10.Recursion/10.Recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/11.LinkList/11.LinkList.iml" filepath="$PROJECT_DIR$/11.LinkList/11.LinkList.iml" />
       <module fileurl="file://$PROJECT_DIR$/03.Array and ArrayList/Array1/1D Array/1D Array.iml" filepath="$PROJECT_DIR$/03.Array and ArrayList/Array1/1D Array/1D Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.Array and ArrayList/Practice Question_/1D Array_/1D Array_.iml" filepath="$PROJECT_DIR$/03.Array and ArrayList/Practice Question_/1D Array_/1D Array_.iml" />
       <module fileurl="file://$PROJECT_DIR$/03.Array and ArrayList/Array1/2D Array/2D Array.iml" filepath="$PROJECT_DIR$/03.Array and ArrayList/Array1/2D Array/2D Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.Array and ArrayList/Practice Question_/2d Array/2d Array.iml" filepath="$PROJECT_DIR$/03.Array and ArrayList/Practice Question_/2d Array/2d Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/05.Sorting/Algo/Algo.iml" filepath="$PROJECT_DIR$/05.Sorting/Algo/Algo.iml" />
       <module fileurl="file://$PROJECT_DIR$/10.Recursion/Array/Array.iml" filepath="$PROJECT_DIR$/10.Recursion/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/03.Array and ArrayList/Array1/Array1.iml" filepath="$PROJECT_DIR$/03.Array and ArrayList/Array1/Array1.iml" />
@@ -24,11 +26,14 @@
       <module fileurl="file://$PROJECT_DIR$/07.Hashing/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/07.Hashing/HashMap/HashMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/04.Searching/Linear Search/Linear Search.iml" filepath="$PROJECT_DIR$/04.Searching/Linear Search/Linear Search.iml" />
       <module fileurl="file://$PROJECT_DIR$/06. String and StringBuilder/String/Practice Problem/Practice Problem.iml" filepath="$PROJECT_DIR$/06. String and StringBuilder/String/Practice Problem/Practice Problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08.Bit Manipulation/Practice Ques/Practice Ques.iml" filepath="$PROJECT_DIR$/08.Bit Manipulation/Practice Ques/Practice Ques.iml" />
       <module fileurl="file://$PROJECT_DIR$/05.Sorting/Practice Question/Practice Question.iml" filepath="$PROJECT_DIR$/05.Sorting/Practice Question/Practice Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.Array and ArrayList/Practice Question_/Practice Question_.iml" filepath="$PROJECT_DIR$/03.Array and ArrayList/Practice Question_/Practice Question_.iml" />
       <module fileurl="file://$PROJECT_DIR$/03.Array and ArrayList/Array1/Prefix Array/Prefix Array.iml" filepath="$PROJECT_DIR$/03.Array and ArrayList/Array1/Prefix Array/Prefix Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/06. String and StringBuilder/String/String.iml" filepath="$PROJECT_DIR$/06. String and StringBuilder/String/String.iml" />
       <module fileurl="file://$PROJECT_DIR$/06. String and StringBuilder/StringBuilder/StringBuilder.iml" filepath="$PROJECT_DIR$/06. String and StringBuilder/StringBuilder/StringBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/03.Array and ArrayList/Array1/Sub Array/Sub Array.iml" filepath="$PROJECT_DIR$/03.Array and ArrayList/Array1/Sub Array/Sub Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09.Array and Math/practice ques/practice ques.iml" filepath="$PROJECT_DIR$/09.Array and Math/practice ques/practice ques.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/zzz.iml" filepath="$PROJECT_DIR$/.idea/zzz.iml" />
     </modules>
   </component>

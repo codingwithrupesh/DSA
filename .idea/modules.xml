@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01.pattern/01.pattern.iml" filepath="$PROJECT_DIR$/01.pattern/01.pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.Function and Methods/02.Function and Methods.iml" filepath="$PROJECT_DIR$/02.Function and Methods/02.Function and Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.Array and ArrayList/03.Array and ArrayList.iml" filepath="$PROJECT_DIR$/03.Array and ArrayList/03.Array and ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.Searching/04.Searching.iml" filepath="$PROJECT_DIR$/04.Searching/04.Searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.Sorting/05.Sorting.iml" filepath="$PROJECT_DIR$/05.Sorting/05.Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06. String and StringBuilder/06. String and StringBuilder.iml" filepath="$PROJECT_DIR$/06. String and StringBuilder/06. String and StringBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07.Hashing/07.Hashing.iml" filepath="$PROJECT_DIR$/07.Hashing/07.Hashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08.Bit Manipulation/08.Bit Manipulation.iml" filepath="$PROJECT_DIR$/08.Bit Manipulation/08.Bit Manipulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09.Array and Math/09.Array and Math.iml" filepath="$PROJECT_DIR$/09.Array and Math/09.Array and Math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.Recursion/10.Recursion.iml" filepath="$PROJECT_DIR$/10.Recursion/10.Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11.LinkList/11.LinkList.iml" filepath="$PROJECT_DIR$/11.LinkList/11.LinkList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.Array and ArrayList/Array1/1D Array/1D Array.iml" filepath="$PROJECT_DIR$/03.Array and ArrayList/Array1/1D Array/1D Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.Array and ArrayList/Array1/2D Array/2D Array.iml" filepath="$PROJECT_DIR$/03.Array and ArrayList/Array1/2D Array/2D Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.Sorting/Algo/Algo.iml" filepath="$PROJECT_DIR$/05.Sorting/Algo/Algo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.Recursion/Array/Array.iml" filepath="$PROJECT_DIR$/10.Recursion/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.Array and ArrayList/Array1/Array1.iml" filepath="$PROJECT_DIR$/03.Array and ArrayList/Array1/Array1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.Array and ArrayList/Array1/Binary Array/Binary Array.iml" filepath="$PROJECT_DIR$/03.Array and ArrayList/Array1/Binary Array/Binary Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.Searching/Binary Search/Binary Search.iml" filepath="$PROJECT_DIR$/04.Searching/Binary Search/Binary Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.Recursion/Easy/Easy.iml" filepath="$PROJECT_DIR$/10.Recursion/Easy/Easy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07.Hashing/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/07.Hashing/HashMap/HashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.Searching/Linear Search/Linear Search.iml" filepath="$PROJECT_DIR$/04.Searching/Linear Search/Linear Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06. String and StringBuilder/String/Practice Problem/Practice Problem.iml" filepath="$PROJECT_DIR$/06. String and StringBuilder/String/Practice Problem/Practice Problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.Sorting/Practice Question/Practice Question.iml" filepath="$PROJECT_DIR$/05.Sorting/Practice Question/Practice Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.Array and ArrayList/Array1/Prefix Array/Prefix Array.iml" filepath="$PROJECT_DIR$/03.Array and ArrayList/Array1/Prefix Array/Prefix Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06. String and StringBuilder/String/String.iml" filepath="$PROJECT_DIR$/06. String and StringBuilder/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06. String and StringBuilder/StringBuilder/StringBuilder.iml" filepath="$PROJECT_DIR$/06. String and StringBuilder/StringBuilder/StringBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.Array and ArrayList/Array1/Sub Array/Sub Array.iml" filepath="$PROJECT_DIR$/03.Array and ArrayList/Array1/Sub Array/Sub Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/zzz.iml" filepath="$PROJECT_DIR$/.idea/zzz.iml" />
+    </modules>
+  </component>
+</project>

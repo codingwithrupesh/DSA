@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class Add_Queries_value_Array0_02 {
     // Time complexity = O( Q+N )
     // Space complexity = O(1)
@@ -5,10 +7,11 @@ public class Add_Queries_value_Array0_02 {
         int[] arr = {0,0,0,0,0,0,0,0,0,0,};
         int[][] queries = {{2,4}, {3, -1}, {0,2},{4,1}};
         System.out.print("Before changing array : ");
-        print(arr);
+        System.out.println(Arrays.toString(arr));
+
         Calculate_Updated_Array(arr , queries);
         System.out.print("After changing all queries Array is : ");
-        print(arr);
+        System.out.println(Arrays.toString(arr));
 
     }
     static void Calculate_Updated_Array(int[] arr, int[][] queries){

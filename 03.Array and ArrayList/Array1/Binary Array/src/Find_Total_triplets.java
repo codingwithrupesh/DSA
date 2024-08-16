@@ -24,6 +24,8 @@ public class Find_Total_triplets {
                     r++;
                 }
             }
+            System.out.println(l);
+            System.out.println(r);
             ans += (l*r);
         }
         System.out.println(ans);
